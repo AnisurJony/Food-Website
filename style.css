@@ -1,0 +1,19 @@
+.google-font {
+    font-family: 'Anton', sans-serif;
+    font-weight: 900;
+    font-size: xx-large;
+    color:green;
+}
+
+.individual-color {
+    color: indigo;
+}
+
+.content-flaxibility {
+    display: flex;
+   
+}
+
+.half-width {
+    width: 50%;
+}
