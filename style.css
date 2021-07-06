@@ -98,3 +98,12 @@ h3{
     text-align: center;
     color: whitesmoke;
 }
+p{
+    color: indigo;
+}
+
+.faq-section{
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
