@@ -1,6 +1,6 @@
-.google-font {
+body {
     font-family: 'Anton', sans-serif;
-   
+   margin: 0;
   
     color:green;
 }
@@ -56,6 +56,7 @@ h3{
 
 .head-section{    
   background-color: orangered;
+  padding: 0px 0px 0px 0px;
 
    
 
