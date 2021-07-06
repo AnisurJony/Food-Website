@@ -31,6 +31,11 @@ h3{
     padding: 2%;
 }
 
+#fit-position{
+    padding-left: 10%;
+}
+
+
 .one-third-width{
  margin: 0px 30px 0px 0px;
    background: white;
@@ -80,7 +85,7 @@ h3{
 
 .nav-bar{
   padding-left: 75%;
-  padding-top: 2.5% ;
+  padding-top: 4% ;
 }
 
 .logo{
@@ -106,4 +111,7 @@ p{
     text-align: center;
     margin-bottom: 10%;
     
+}
+body{
+    padding:0% 0% 0% 0%;
 }
