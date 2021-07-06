@@ -1,16 +1,25 @@
 .google-font {
     font-family: 'Anton', sans-serif;
    
-    font-size: large;
+  
     color:green;
 }
-h1,h3 {
-    font-size: xx-large;
+h1 {
+    font-size: 300%;
     font-weight: 700;
 }
-.individual-color {
-    color: indigo;
+h2{
+    font-size: 200%;
 }
+
+h3{
+    font-size: 150%;
+}
+.individual-color {
+    color: orangered;
+}
+
+
 
 .content-flaxibility {
     display: flex;
@@ -28,6 +37,7 @@ h1,h3 {
    border-radius: 40px;
    box-shadow: 10px 10px 20px gray;
     width: 33.33%;
+    height: 200%;
     padding: 2% 2% 2% 2%;
     
    
@@ -35,6 +45,7 @@ h1,h3 {
 }
 #new-concept{
     margin: 10% 5%;
+
 }
 
 
